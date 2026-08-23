@@ -115,15 +115,15 @@ Screenshots/
 
 Then add:
 
-### Page 1 — Sales Analytics Dashboard
+``` markdown
+## Dashboard Preview
 
+### Page 1 — Sales Analytics Dashboard
 ![Page 1](Screenshots/page1-sales-overview.png)
 
 ### Page 2 — Product & Customer Analytics
-
 ![Page 2](Screenshots/page2-product-customer.png)
-
-## Repository Structure
+```
 
 ``` text
 sales-analytics-powerbi/
